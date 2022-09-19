@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi! My name is Nalin Krishnan and I am a junior studying Computer Science in LSA. A fun fact about me is that I eat Panch every day.
